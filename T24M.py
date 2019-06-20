@@ -177,7 +177,7 @@ def pilih():
                     else:
                         if zedd == '5':
                             os.system('rm -rf login.txt')
-                            os.system('xdg-open https://www.youtube.com/Alan Walker, Sabrina Carpenter & Farruko - On My Way - YouTube')
+                            os.system(' xdg-open https://www.youtube.com/Alan Walker ')
                             keluar()
                         else:
                             if zedd == '0':
