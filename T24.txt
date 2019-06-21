@@ -1,9 +1,9 @@
 Whatshap
 Whatever123456
 password
-123456789
-12345678
-12345
+1234567890
+1234512
+123451
 111111
 1234567
 sunshine
@@ -35,7 +35,7 @@ Batman12345
 06062003
 06062001
 Kucing
-Kucing
+Kucing123
 Bismillah
 Alhamdulillah
 Doaibu
